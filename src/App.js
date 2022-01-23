@@ -9,6 +9,8 @@ function App() {
          <h1> Weather App </h1>
       <Weather />
       </header>
+      <a href="https://github.com/lisboafla/react-w">Open-source code by Flavia Lisboa
+</a>
     </div>
   );
 }
